@@ -1,0 +1,6 @@
+{
+    "name": "Butter Chicken",
+    "symbol": "BCC",
+    "description": "A community-driven meme coin on the Solana blockchain, designed to bring fun, flavor, and financial utility to crypto traders.",
+    "image": "https://blue-wonderful-blackbird-575.mypinata.cloud/files/bafkreidurbitq3or44nom3igky4czahbtfurpklv2rzgkvvmgn42jw34yq?X-Algorithm=PINATA1&X-Date=1734936928&X-Expires=30&X-Method=GET&X-Signature=f8f9a48d7ca5be19c9a9a568323181807615ae4070f2378f77f4176d3c8342a7",
+    "external_url": "ht
